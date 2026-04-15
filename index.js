@@ -3,15 +3,15 @@ const { HorseRacingAPI } = require('hkjc-api');
 const app = express();
 const horseAPI = new HorseRacingAPI();
 
-app.use(express.json()); // Add this middleware
+app.use(express.json());
 
-// Test route first
+// Test route
 app.get('/', (req, res) => {
-  res.json({ status: 'HKJC Odds API working!', endpoint: '/odds' });
+  res.json({ status: 'HKJC Odds API working!', endpoint: '/api/odds' });
 });
 
-// Main odds route - FIXED PATH
-app.get('/odds', async (req, res) => {
+// Main odds route - fetches fresh data every time
+app.get('/api/odds', async (req, res) => {
   try {
     let allOdds = {};
     for (let race = 1; race <= 11; race++) {
@@ -26,9 +26,7 @@ app.get('/odds', async (req, res) => {
   }
 });
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`✅ Server running on port ${port}`);
-  console.log('✅ Test: https://your-repl-url.repl.co');
-  console.log('✅ Odds: https://your-repl-url.repl.co/odds');
 });
