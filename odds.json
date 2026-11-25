@@ -1938,10 +1938,10 @@
   "Race_5": [
     {
       "id": "MTG_20261125_0001QIN5",
-      "status": "START_SELL",
-      "sellStatus": "START_SELL",
+      "status": "PAYOUT",
+      "sellStatus": "STOP_SELL",
       "oddsType": "QIN",
-      "lastUpdateTime": "2026-11-25T20:18:48.131+08:00",
+      "lastUpdateTime": "2026-11-25T20:41:32.303+08:00",
       "guarantee": null,
       "minTicketCost": 0,
       "name_en": null,
@@ -1955,463 +1955,463 @@
       "cWinSelections": [],
       "oddsNodes": [
         {
-          "combString": "02,12",
-          "oddsValue": "11",
-          "hotFavourite": true,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
           "combString": "09,11",
-          "oddsValue": "11",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsValue": "9.5",
+          "hotFavourite": true,
+          "oddsDropValue": 32.14,
           "bankerOdds": []
         },
         {
-          "combString": "02,11",
-          "oddsValue": "12",
+          "combString": "01,09",
+          "oddsValue": "14",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 26.31,
           "bankerOdds": []
         },
         {
-          "combString": "01,12",
-          "oddsValue": "13",
+          "combString": "07,09",
+          "oddsValue": "14",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 44,
           "bankerOdds": []
         },
         {
           "combString": "01,11",
           "oddsValue": "14",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 12.5,
           "bankerOdds": []
         },
         {
-          "combString": "01,02",
-          "oddsValue": "16",
+          "combString": "07,11",
+          "oddsValue": "15",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 51.61,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,12",
+          "oddsValue": "19",
+          "hotFavourite": false,
+          "oddsDropValue": 13.63,
           "bankerOdds": []
         },
         {
           "combString": "11,12",
-          "oddsValue": "16",
+          "oddsValue": "19",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,09",
-          "oddsValue": "18",
+          "combString": "02,11",
+          "oddsValue": "21",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "02,09",
-          "oddsValue": "22",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,12",
           "oddsValue": "24",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,09",
-          "oddsValue": "27",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,11",
-          "oddsValue": "30",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,07",
-          "oddsValue": "32",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,08",
-          "oddsValue": "34",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,12",
-          "oddsValue": "36",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
           "combString": "01,07",
-          "oddsValue": "53",
+          "oddsValue": "25",
+          "hotFavourite": false,
+          "oddsDropValue": 48.97,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,12",
+          "oddsValue": "25",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "08,11",
-          "oddsValue": "57",
+          "combString": "01,12",
+          "oddsValue": "26",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,12",
-          "oddsValue": "57",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,04",
-          "oddsValue": "59",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,09",
-          "oddsValue": "61",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,12",
-          "oddsValue": "65",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,04",
-          "oddsValue": "67",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,07",
-          "oddsValue": "69",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,03",
-          "oddsValue": "73",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,08",
-          "oddsValue": "74",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,11",
-          "oddsValue": "78",
+          "combString": "01,02",
+          "oddsValue": "28",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,09",
-          "oddsValue": "78",
+          "oddsValue": "28",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 60,
           "bankerOdds": []
         },
         {
-          "combString": "04,09",
-          "oddsValue": "79",
+          "combString": "07,12",
+          "oddsValue": "32",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 41.81,
           "bankerOdds": []
         },
         {
-          "combString": "04,11",
-          "oddsValue": "80",
+          "combString": "03,11",
+          "oddsValue": "33",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 57.14,
           "bankerOdds": []
         },
         {
-          "combString": "03,12",
-          "oddsValue": "112",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,06",
-          "oddsValue": "116",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,09",
-          "oddsValue": "116",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,09",
-          "oddsValue": "130",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,03",
-          "oddsValue": "130",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,08",
-          "oddsValue": "137",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,05",
-          "oddsValue": "138",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,12",
-          "oddsValue": "139",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,11",
-          "oddsValue": "141",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,06",
-          "oddsValue": "142",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,10",
-          "oddsValue": "145",
+          "combString": "02,07",
+          "oddsValue": "34",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,07",
-          "oddsValue": "153",
+          "oddsValue": "46",
+          "hotFavourite": false,
+          "oddsDropValue": 65.15,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,03",
+          "oddsValue": "50",
+          "hotFavourite": false,
+          "oddsDropValue": 62.68,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,09",
+          "oddsValue": "52",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,08",
-          "oddsValue": "155",
+          "combString": "04,11",
+          "oddsValue": "59",
+          "hotFavourite": false,
+          "oddsDropValue": 1.66,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,12",
+          "oddsValue": "61",
+          "hotFavourite": false,
+          "oddsDropValue": 32.96,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,08",
+          "oddsValue": "68",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,08",
-          "oddsValue": "164",
+          "combString": "04,07",
+          "oddsValue": "73",
+          "hotFavourite": false,
+          "oddsDropValue": 2.66,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,11",
+          "oddsValue": "75",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,05",
-          "oddsValue": "175",
+          "combString": "02,03",
+          "oddsValue": "76",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,12",
+          "oddsValue": "76",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,09",
+          "oddsValue": "85",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,04",
+          "oddsValue": "87",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,04",
+          "oddsValue": "93",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,09",
+          "oddsValue": "97",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,11",
+          "oddsValue": "98",
+          "hotFavourite": false,
+          "oddsDropValue": 20.32,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,06",
+          "oddsValue": "104",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,09",
+          "oddsValue": "106",
+          "hotFavourite": false,
+          "oddsDropValue": 8.62,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,11",
+          "oddsValue": "109",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,12",
+          "oddsValue": "111",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,08",
+          "oddsValue": "116",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,08",
+          "oddsValue": "125",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,07",
-          "oddsValue": "176",
+          "oddsValue": "129",
+          "hotFavourite": false,
+          "oddsDropValue": 9.79,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,05",
+          "oddsValue": "147",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,11",
-          "oddsValue": "181",
+          "combString": "01,06",
+          "oddsValue": "152",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,06",
-          "oddsValue": "182",
+          "combString": "06,12",
+          "oddsValue": "165",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,04",
-          "oddsValue": "211",
+          "oddsValue": "180",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 3.22,
           "bankerOdds": []
         },
         {
-          "combString": "02,10",
-          "oddsValue": "223",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,12",
-          "oddsValue": "227",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,08",
-          "oddsValue": "243",
+          "combString": "02,05",
+          "oddsValue": "186",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "05,07",
-          "oddsValue": "271",
+          "oddsValue": "191",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "10,12",
-          "oddsValue": "282",
+          "combString": "04,06",
+          "oddsValue": "210",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,08",
-          "oddsValue": "288",
+          "combString": "04,08",
+          "oddsValue": "220",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,12",
+          "oddsValue": "228",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,08",
+          "oddsValue": "251",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,10",
+          "oddsValue": "283",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,08",
+          "oddsValue": "290",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "10,11",
-          "oddsValue": "291",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,10",
-          "oddsValue": "318",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,05",
-          "oddsValue": "322",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,05",
-          "oddsValue": "328",
+          "oddsValue": "292",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,06",
-          "oddsValue": "384",
+          "oddsValue": "326",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,06",
-          "oddsValue": "449",
+          "combString": "03,05",
+          "oddsValue": "340",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,10",
+          "combString": "02,10",
+          "oddsValue": "352",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,05",
+          "oddsValue": "435",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,12",
           "oddsValue": "458",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
+          "combString": "01,10",
+          "oddsValue": "492",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,10",
+          "oddsValue": "501",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,08",
+          "oddsValue": "532",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,06",
+          "oddsValue": "591",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
           "combString": "06,10",
-          "oddsValue": "468",
+          "oddsValue": "645",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "08,10",
-          "oddsValue": "468",
+          "oddsValue": "751",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,10",
-          "oddsValue": "507",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,10",
-          "oddsValue": "558",
+          "oddsValue": "815",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,10",
-          "oddsValue": "742",
+          "oddsValue": "896",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,10",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
@@ -2422,10 +2422,10 @@
   "Race_6": [
     {
       "id": "MTG_20261125_0001QIN6",
-      "status": "START_SELL",
-      "sellStatus": "START_SELL",
+      "status": "PAYOUT",
+      "sellStatus": "STOP_SELL",
       "oddsType": "QIN",
-      "lastUpdateTime": "2026-11-25T20:15:05.897+08:00",
+      "lastUpdateTime": "2026-11-25T21:11:47.407+08:00",
       "guarantee": null,
       "minTicketCost": 0,
       "name_en": null,
@@ -2439,70 +2439,77 @@
       "cWinSelections": [],
       "oddsNodes": [
         {
-          "combString": "02,09",
-          "oddsValue": "6.4",
+          "combString": "02,06",
+          "oddsValue": "7.1",
           "hotFavourite": true,
-          "oddsDropValue": 0,
+          "oddsDropValue": 58.23,
           "bankerOdds": []
         },
         {
           "combString": "02,10",
-          "oddsValue": "11",
+          "oddsValue": "10",
           "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,10",
-          "oddsValue": "13",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 16.66,
           "bankerOdds": []
         },
         {
           "combString": "02,04",
-          "oddsValue": "14",
+          "oddsValue": "10",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,09",
+          "oddsValue": "10",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,02",
-          "oddsValue": "14",
+          "oddsValue": "11",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 8.33,
           "bankerOdds": []
         },
         {
-          "combString": "02,06",
-          "oddsValue": "15",
+          "combString": "06,10",
+          "oddsValue": "19",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 36.66,
           "bankerOdds": []
         },
         {
-          "combString": "01,09",
+          "combString": "04,06",
           "oddsValue": "20",
+          "hotFavourite": false,
+          "oddsDropValue": 55.55,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,09",
+          "oddsValue": "22",
+          "hotFavourite": false,
+          "oddsDropValue": 24.13,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,06",
+          "oddsValue": "23",
+          "hotFavourite": false,
+          "oddsDropValue": 62.29,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,10",
+          "oddsValue": "26",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,09",
-          "oddsValue": "20",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,03",
-          "oddsValue": "27",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,09",
           "oddsValue": "28",
           "hotFavourite": false,
           "oddsDropValue": 0,
@@ -2512,390 +2519,383 @@
           "combString": "04,10",
           "oddsValue": "29",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 3.33,
           "bankerOdds": []
         },
         {
-          "combString": "06,10",
+          "combString": "01,04",
           "oddsValue": "31",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 35.41,
           "bankerOdds": []
         },
         {
-          "combString": "02,12",
-          "oddsValue": "39",
+          "combString": "01,09",
+          "oddsValue": "32",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,10",
-          "oddsValue": "43",
+          "oddsValue": "35",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 5.4,
           "bankerOdds": []
         },
         {
-          "combString": "03,09",
-          "oddsValue": "45",
+          "combString": "02,12",
+          "oddsValue": "38",
+          "hotFavourite": false,
+          "oddsDropValue": 13.63,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,03",
+          "oddsValue": "42",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "02,08",
-          "oddsValue": "48",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,06",
-          "oddsValue": "48",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,04",
-          "oddsValue": "49",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,04",
-          "oddsValue": "53",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,06",
-          "oddsValue": "53",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,12",
-          "oddsValue": "70",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,03",
-          "oddsValue": "73",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,10",
-          "oddsValue": "74",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,09",
-          "oddsValue": "79",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,10",
-          "oddsValue": "81",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,05",
-          "oddsValue": "84",
+          "oddsValue": "65",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,12",
-          "oddsValue": "93",
+          "oddsValue": "67",
+          "hotFavourite": false,
+          "oddsDropValue": 32.32,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,12",
+          "oddsValue": "69",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "10,12",
-          "oddsValue": "95",
+          "combString": "03,09",
+          "oddsValue": "72",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,07",
-          "oddsValue": "99",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,06",
-          "oddsValue": "100",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,12",
-          "oddsValue": "121",
+          "combString": "03,04",
+          "oddsValue": "86",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,12",
-          "oddsValue": "127",
+          "oddsValue": "88",
+          "hotFavourite": false,
+          "oddsDropValue": 22.8,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,12",
+          "oddsValue": "93",
+          "hotFavourite": false,
+          "oddsDropValue": 1.06,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,12",
+          "oddsValue": "97",
+          "hotFavourite": false,
+          "oddsDropValue": 11.81,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,06",
+          "oddsValue": "98",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,11",
-          "oddsValue": "133",
+          "combString": "02,07",
+          "oddsValue": "107",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,08",
-          "oddsValue": "160",
+          "combString": "01,03",
+          "oddsValue": "111",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,09",
+          "oddsValue": "121",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,08",
-          "oddsValue": "160",
+          "oddsValue": "128",
+          "hotFavourite": false,
+          "oddsDropValue": 13.51,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,10",
+          "oddsValue": "131",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,09",
-          "oddsValue": "163",
+          "combString": "02,05",
+          "oddsValue": "134",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,08",
-          "oddsValue": "165",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,12",
-          "oddsValue": "173",
+          "combString": "03,10",
+          "oddsValue": "145",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,08",
-          "oddsValue": "179",
+          "oddsValue": "149",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 18.57,
           "bankerOdds": []
         },
         {
-          "combString": "07,10",
-          "oddsValue": "180",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,06",
-          "oddsValue": "180",
+          "combString": "04,08",
+          "oddsValue": "149",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,07",
+          "oddsValue": "170",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,11",
           "oddsValue": "186",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,07",
-          "oddsValue": "198",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,09",
-          "oddsValue": "199",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,05",
-          "oddsValue": "203",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,11",
-          "oddsValue": "205",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,10",
+          "combString": "07,10",
           "oddsValue": "212",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,05",
-          "oddsValue": "214",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,11",
-          "oddsValue": "218",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,07",
+          "combString": "05,09",
           "oddsValue": "219",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "08,12",
-          "oddsValue": "243",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,05",
-          "oddsValue": "264",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,08",
-          "oddsValue": "267",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "10,11",
-          "oddsValue": "277",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,08",
-          "oddsValue": "282",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,12",
-          "oddsValue": "283",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "11,12",
-          "oddsValue": "300",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,11",
-          "oddsValue": "308",
+          "combString": "04,07",
+          "oddsValue": "230",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,07",
-          "oddsValue": "320",
+          "oddsValue": "239",
+          "hotFavourite": false,
+          "oddsDropValue": 7.36,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,05",
+          "oddsValue": "253",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,11",
-          "oddsValue": "357",
+          "combString": "07,09",
+          "oddsValue": "256",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,07",
-          "oddsValue": "391",
+          "combString": "03,12",
+          "oddsValue": "259",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,12",
-          "oddsValue": "414",
+          "combString": "05,06",
+          "oddsValue": "260",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,11",
-          "oddsValue": "422",
+          "combString": "01,05",
+          "oddsValue": "270",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,11",
+          "combString": "08,12",
+          "oddsValue": "271",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,08",
+          "oddsValue": "325",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,11",
+          "oddsValue": "333",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,12",
+          "oddsValue": "341",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,10",
+          "oddsValue": "346",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,08",
+          "oddsValue": "387",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,11",
+          "oddsValue": "395",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,07",
+          "oddsValue": "402",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,11",
+          "oddsValue": "436",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,11",
           "oddsValue": "446",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
+          "combString": "05,08",
+          "oddsValue": "475",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,12",
+          "oddsValue": "487",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,05",
+          "oddsValue": "492",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,11",
+          "oddsValue": "493",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "11,12",
+          "oddsValue": "597",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,07",
+          "oddsValue": "737",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
           "combString": "08,11",
-          "oddsValue": "513",
+          "oddsValue": "926",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,11",
+          "oddsValue": "953",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,11",
+          "oddsValue": "972",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "05,11",
-          "oddsValue": "575",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
@@ -2906,10 +2906,10 @@
   "Race_7": [
     {
       "id": "MTG_20261125_0001QIN7",
-      "status": "START_SELL",
-      "sellStatus": "START_SELL",
+      "status": "PAYOUT",
+      "sellStatus": "STOP_SELL",
       "oddsType": "QIN",
-      "lastUpdateTime": "2026-11-25T20:15:05.054+08:00",
+      "lastUpdateTime": "2026-11-25T21:50:17.373+08:00",
       "guarantee": null,
       "minTicketCost": 0,
       "name_en": null,
@@ -2924,462 +2924,462 @@
       "oddsNodes": [
         {
           "combString": "01,08",
-          "oddsValue": "5.3",
+          "oddsValue": "5.5",
           "hotFavourite": true,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "08,09",
-          "oddsValue": "8.4",
+          "combString": "08,12",
+          "oddsValue": "6.2",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 36.08,
           "bankerOdds": []
         },
         {
-          "combString": "01,09",
+          "combString": "03,08",
           "oddsValue": "10",
+          "hotFavourite": false,
+          "oddsDropValue": 58.33,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,09",
+          "oddsValue": "14",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,08",
-          "oddsValue": "20",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,08",
-          "oddsValue": "21",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,04",
-          "oddsValue": "22",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,12",
-          "oddsValue": "22",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,02",
-          "oddsValue": "25",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,12",
-          "oddsValue": "30",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,08",
-          "oddsValue": "32",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,09",
-          "oddsValue": "34",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,09",
-          "oddsValue": "40",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,03",
-          "oddsValue": "44",
+          "oddsValue": "14",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,08",
-          "oddsValue": "46",
+          "oddsValue": "16",
+          "hotFavourite": false,
+          "oddsDropValue": 66.66,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,10",
+          "oddsValue": "21",
+          "hotFavourite": false,
+          "oddsDropValue": 46.15,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,08",
+          "oddsValue": "22",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,04",
-          "oddsValue": "47",
+          "combString": "01,12",
+          "oddsValue": "23",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 54,
           "bankerOdds": []
         },
         {
-          "combString": "04,12",
-          "oddsValue": "50",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,08",
-          "oddsValue": "54",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,09",
-          "oddsValue": "56",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,05",
-          "oddsValue": "56",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,06",
-          "oddsValue": "57",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,12",
-          "oddsValue": "57",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,12",
-          "oddsValue": "59",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,06",
-          "oddsValue": "59",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,09",
-          "oddsValue": "62",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,05",
-          "oddsValue": "62",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,05",
-          "oddsValue": "68",
+          "combString": "01,09",
+          "oddsValue": "31",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,12",
-          "oddsValue": "69",
+          "oddsValue": "42",
+          "hotFavourite": false,
+          "oddsDropValue": 14.28,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,03",
+          "oddsValue": "43",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "06,09",
-          "oddsValue": "75",
+          "combString": "01,04",
+          "oddsValue": "51",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,04",
-          "oddsValue": "79",
+          "combString": "04,12",
+          "oddsValue": "57",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 13.63,
           "bankerOdds": []
         },
         {
-          "combString": "08,10",
-          "oddsValue": "83",
+          "combString": "05,08",
+          "oddsValue": "57",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 19.71,
           "bankerOdds": []
         },
         {
-          "combString": "02,03",
-          "oddsValue": "113",
+          "combString": "01,06",
+          "oddsValue": "60",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 38.14,
           "bankerOdds": []
         },
         {
-          "combString": "03,06",
-          "oddsValue": "116",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,06",
-          "oddsValue": "124",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,12",
-          "oddsValue": "126",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,11",
-          "oddsValue": "130",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,10",
-          "oddsValue": "132",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,06",
-          "oddsValue": "137",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,05",
-          "oddsValue": "138",
+          "combString": "01,02",
+          "oddsValue": "60",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,12",
-          "oddsValue": "151",
+          "oddsValue": "62",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 61,
           "bankerOdds": []
         },
         {
-          "combString": "07,08",
-          "oddsValue": "160",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,10",
-          "oddsValue": "170",
+          "combString": "09,12",
+          "oddsValue": "64",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "10,12",
-          "oddsValue": "175",
+          "oddsValue": "70",
+          "hotFavourite": false,
+          "oddsDropValue": 41.17,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,09",
+          "oddsValue": "78",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,04",
+          "oddsValue": "83",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,09",
+          "oddsValue": "85",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,10",
-          "oddsValue": "180",
+          "oddsValue": "86",
+          "hotFavourite": false,
+          "oddsDropValue": 18.86,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,12",
+          "oddsValue": "88",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,11",
+          "oddsValue": "102",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,10",
-          "oddsValue": "200",
+          "oddsValue": "109",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,11",
-          "oddsValue": "216",
+          "combString": "02,04",
+          "oddsValue": "109",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "11,12",
-          "oddsValue": "246",
+          "combString": "03,06",
+          "oddsValue": "110",
+          "hotFavourite": false,
+          "oddsDropValue": 12,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,09",
+          "oddsValue": "113",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,03",
+          "oddsValue": "121",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,09",
+          "oddsValue": "133",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,09",
+          "oddsValue": "134",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,05",
+          "oddsValue": "141",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,06",
+          "oddsValue": "141",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,05",
+          "oddsValue": "157",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,10",
+          "oddsValue": "169",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,05",
+          "oddsValue": "177",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,12",
+          "oddsValue": "190",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,10",
+          "oddsValue": "191",
+          "hotFavourite": false,
+          "oddsDropValue": 9.9,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,06",
+          "oddsValue": "215",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,06",
+          "oddsValue": "239",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,10",
-          "oddsValue": "247",
+          "oddsValue": "240",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 28.57,
           "bankerOdds": []
         },
         {
-          "combString": "04,07",
+          "combString": "03,05",
           "oddsValue": "248",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,11",
-          "oddsValue": "260",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,11",
-          "oddsValue": "264",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,11",
-          "oddsValue": "267",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,09",
-          "oddsValue": "270",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,07",
-          "oddsValue": "279",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
           "combString": "02,10",
-          "oddsValue": "280",
+          "oddsValue": "249",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,10",
-          "oddsValue": "319",
+          "combString": "07,08",
+          "oddsValue": "287",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,11",
-          "oddsValue": "335",
+          "combString": "11,12",
+          "oddsValue": "357",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,07",
-          "oddsValue": "364",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,07",
-          "oddsValue": "369",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "10,11",
-          "oddsValue": "373",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,11",
-          "oddsValue": "397",
+          "combString": "01,11",
+          "oddsValue": "368",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,11",
-          "oddsValue": "399",
+          "oddsValue": "401",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,07",
-          "oddsValue": "430",
+          "combString": "05,10",
+          "oddsValue": "496",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,11",
+          "oddsValue": "508",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,07",
+          "oddsValue": "591",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,11",
+          "oddsValue": "620",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,11",
+          "oddsValue": "660",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,11",
+          "oddsValue": "665",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,07",
+          "oddsValue": "669",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,09",
+          "oddsValue": "754",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,11",
+          "oddsValue": "759",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,11",
-          "oddsValue": "441",
+          "oddsValue": "759",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,07",
+          "oddsValue": "940",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,12",
-          "oddsValue": "450",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,07",
-          "oddsValue": "516",
+          "oddsValue": "999",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,07",
+          "oddsValue": "999",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,07",
+          "oddsValue": "999",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,11",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,10",
-          "oddsValue": "603",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
@@ -3390,10 +3390,10 @@
   "Race_8": [
     {
       "id": "MTG_20261125_0001QIN8",
-      "status": "START_SELL",
-      "sellStatus": "START_SELL",
+      "status": "PAYOUT",
+      "sellStatus": "STOP_SELL",
       "oddsType": "QIN",
-      "lastUpdateTime": "2026-11-25T20:15:06.694+08:00",
+      "lastUpdateTime": "2026-11-25T22:28:05.013+08:00",
       "guarantee": null,
       "minTicketCost": 0,
       "name_en": null,
@@ -3407,140 +3407,140 @@
       "cWinSelections": [],
       "oddsNodes": [
         {
-          "combString": "02,08",
-          "oddsValue": "6.4",
+          "combString": "02,07",
+          "oddsValue": "7.1",
           "hotFavourite": true,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,03",
-          "oddsValue": "7.3",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,07",
-          "oddsValue": "8.1",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,12",
-          "oddsValue": "13",
+          "combString": "02,08",
+          "oddsValue": "7.5",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "02,06",
-          "oddsValue": "17",
+          "oddsValue": "7.6",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 21.64,
           "bankerOdds": []
         },
         {
-          "combString": "03,08",
-          "oddsValue": "18",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,08",
-          "oddsValue": "20",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,04",
-          "oddsValue": "24",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,07",
-          "oddsValue": "24",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,12",
-          "oddsValue": "27",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,02",
-          "oddsValue": "28",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,08",
-          "oddsValue": "41",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,12",
-          "oddsValue": "41",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,12",
-          "oddsValue": "45",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,06",
-          "oddsValue": "49",
+          "combString": "02,03",
+          "oddsValue": "11",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,07",
-          "oddsValue": "50",
+          "oddsValue": "13",
+          "hotFavourite": false,
+          "oddsDropValue": 53.57,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,08",
+          "oddsValue": "17",
+          "hotFavourite": false,
+          "oddsDropValue": 57.5,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,08",
+          "oddsValue": "17",
+          "hotFavourite": false,
+          "oddsDropValue": 10.52,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,12",
+          "oddsValue": "22",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,09",
-          "oddsValue": "57",
+          "combString": "03,07",
+          "oddsValue": "25",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,08",
-          "oddsValue": "57",
+          "combString": "03,08",
+          "oddsValue": "25",
           "hotFavourite": false,
           "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,04",
+          "oddsValue": "26",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,06",
+          "oddsValue": "32",
+          "hotFavourite": false,
+          "oddsDropValue": 8.57,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,12",
+          "oddsValue": "42",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,12",
+          "oddsValue": "46",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,02",
+          "oddsValue": "46",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,12",
+          "oddsValue": "47",
+          "hotFavourite": false,
+          "oddsDropValue": 38.96,
           "bankerOdds": []
         },
         {
           "combString": "04,07",
-          "oddsValue": "57",
+          "oddsValue": "49",
+          "hotFavourite": false,
+          "oddsDropValue": 3.92,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,06",
+          "oddsValue": "51",
+          "hotFavourite": false,
+          "oddsDropValue": 22.72,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,08",
+          "oddsValue": "59",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,07",
+          "combString": "03,12",
           "oddsValue": "62",
           "hotFavourite": false,
           "oddsDropValue": 0,
@@ -3548,322 +3548,322 @@
         },
         {
           "combString": "03,04",
-          "oddsValue": "64",
+          "oddsValue": "73",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "06,12",
-          "oddsValue": "69",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,03",
-          "oddsValue": "83",
+          "combString": "02,09",
+          "oddsValue": "89",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "02,11",
-          "oddsValue": "87",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,05",
-          "oddsValue": "92",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,09",
-          "oddsValue": "93",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,08",
           "oddsValue": "105",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 11.01,
           "bankerOdds": []
         },
         {
-          "combString": "04,12",
-          "oddsValue": "110",
+          "combString": "01,07",
+          "oddsValue": "107",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,06",
-          "oddsValue": "116",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,09",
-          "oddsValue": "157",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,10",
-          "oddsValue": "160",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,12",
-          "oddsValue": "172",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,12",
-          "oddsValue": "172",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,04",
-          "oddsValue": "175",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,11",
-          "oddsValue": "195",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,11",
-          "oddsValue": "198",
+          "combString": "01,03",
+          "oddsValue": "117",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "01,06",
-          "oddsValue": "205",
+          "oddsValue": "119",
+          "hotFavourite": false,
+          "oddsDropValue": 3.25,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,08",
+          "oddsValue": "123",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,05",
+          "oddsValue": "131",
+          "hotFavourite": false,
+          "oddsDropValue": 0.75,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,12",
+          "oddsValue": "134",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "07,11",
+          "oddsValue": "178",
+          "hotFavourite": false,
+          "oddsDropValue": 47.18,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,11",
+          "oddsValue": "180",
+          "hotFavourite": false,
+          "oddsDropValue": 60.69,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,10",
+          "oddsValue": "188",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,09",
-          "oddsValue": "205",
+          "oddsValue": "197",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "11,12",
-          "oddsValue": "218",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,06",
-          "oddsValue": "223",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,08",
-          "oddsValue": "224",
+          "combString": "08,09",
+          "oddsValue": "197",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "06,09",
-          "oddsValue": "225",
+          "oddsValue": "221",
+          "hotFavourite": false,
+          "oddsDropValue": 1.33,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,12",
+          "oddsValue": "222",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,11",
-          "oddsValue": "225",
+          "combString": "08,11",
+          "oddsValue": "228",
+          "hotFavourite": false,
+          "oddsDropValue": 12.3,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,09",
+          "oddsValue": "232",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "08,10",
-          "oddsValue": "231",
+          "combString": "01,04",
+          "oddsValue": "249",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "05,12",
-          "oddsValue": "247",
+          "combString": "05,08",
+          "oddsValue": "278",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,09",
-          "oddsValue": "274",
+          "combString": "05,06",
+          "oddsValue": "302",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 27.57,
           "bankerOdds": []
         },
         {
           "combString": "05,07",
-          "oddsValue": "286",
+          "oddsValue": "308",
+          "hotFavourite": false,
+          "oddsDropValue": 10.72,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,10",
+          "oddsValue": "360",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,05",
-          "oddsValue": "310",
+          "combString": "11,12",
+          "oddsValue": "399",
+          "hotFavourite": false,
+          "oddsDropValue": 2.44,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,11",
+          "oddsValue": "407",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,05",
-          "oddsValue": "317",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,11",
-          "oddsValue": "342",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,09",
-          "oddsValue": "384",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,11",
-          "oddsValue": "385",
+          "combString": "09,12",
+          "oddsValue": "423",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,10",
-          "oddsValue": "400",
+          "oddsValue": "427",
+          "hotFavourite": false,
+          "oddsDropValue": 11.04,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,09",
+          "oddsValue": "435",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,10",
-          "oddsValue": "413",
+          "oddsValue": "475",
+          "hotFavourite": false,
+          "oddsDropValue": 11.54,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,05",
+          "oddsValue": "475",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,11",
-          "oddsValue": "420",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "10,12",
-          "oddsValue": "451",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,10",
-          "oddsValue": "476",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,10",
           "oddsValue": "481",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
+          "combString": "06,10",
+          "oddsValue": "502",
+          "hotFavourite": false,
+          "oddsDropValue": 17.43,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,12",
+          "oddsValue": "668",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,09",
+          "oddsValue": "675",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,05",
+          "oddsValue": "697",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,12",
+          "oddsValue": "703",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,11",
+          "oddsValue": "704",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,10",
+          "oddsValue": "735",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
           "combString": "09,11",
-          "oddsValue": "495",
+          "oddsValue": "780",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "10,11",
-          "oddsValue": "526",
+          "oddsValue": "873",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 5.82,
           "bankerOdds": []
         },
         {
           "combString": "04,10",
-          "oddsValue": "536",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,05",
-          "oddsValue": "541",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,09",
-          "oddsValue": "570",
+          "oddsValue": "905",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "09,10",
-          "oddsValue": "575",
+          "oddsValue": "918",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,05",
+          "oddsValue": "988",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,09",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "05,10",
-          "oddsValue": "590",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "05,11",
-          "oddsValue": "609",
+          "oddsValue": "999",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
@@ -3874,10 +3874,10 @@
   "Race_9": [
     {
       "id": "MTG_20261125_0001QIN9",
-      "status": "START_SELL",
-      "sellStatus": "START_SELL",
+      "status": "PAYOUT",
+      "sellStatus": "STOP_SELL",
       "oddsType": "QIN",
-      "lastUpdateTime": "2026-11-25T20:14:56.123+08:00",
+      "lastUpdateTime": "2026-11-25T23:03:37.417+08:00",
       "guarantee": null,
       "minTicketCost": 0,
       "name_en": null,
@@ -3892,462 +3892,462 @@
       "oddsNodes": [
         {
           "combString": "02,07",
-          "oddsValue": "5.4",
+          "oddsValue": "6.0",
           "hotFavourite": true,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,06",
+          "combString": "03,07",
           "oddsValue": "11",
           "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,03",
-          "oddsValue": "13",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,10",
-          "oddsValue": "16",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 54.16,
           "bankerOdds": []
         },
         {
           "combString": "06,07",
-          "oddsValue": "17",
+          "oddsValue": "11",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 31.25,
           "bankerOdds": []
         },
         {
-          "combString": "02,05",
-          "oddsValue": "17",
+          "combString": "07,12",
+          "oddsValue": "11",
+          "hotFavourite": false,
+          "oddsDropValue": 45,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,07",
+          "oddsValue": "18",
+          "hotFavourite": false,
+          "oddsDropValue": 28,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,06",
+          "oddsValue": "19",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,10",
-          "oddsValue": "21",
+          "oddsValue": "20",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 13.04,
           "bankerOdds": []
         },
         {
-          "combString": "03,07",
-          "oddsValue": "26",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,07",
-          "oddsValue": "30",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,12",
-          "oddsValue": "38",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,10",
-          "oddsValue": "40",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,08",
-          "oddsValue": "40",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,06",
-          "oddsValue": "42",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,10",
-          "oddsValue": "42",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,02",
-          "oddsValue": "45",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "07,12",
-          "oddsValue": "49",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "02,04",
-          "oddsValue": "51",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,06",
-          "oddsValue": "56",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,07",
-          "oddsValue": "59",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,05",
-          "oddsValue": "60",
+          "combString": "02,03",
+          "oddsValue": "24",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,08",
-          "oddsValue": "61",
+          "oddsValue": "25",
+          "hotFavourite": false,
+          "oddsDropValue": 32.43,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,12",
+          "oddsValue": "26",
+          "hotFavourite": false,
+          "oddsDropValue": 13.33,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,10",
+          "oddsValue": "30",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,11",
-          "oddsValue": "73",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,10",
-          "oddsValue": "77",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,07",
-          "oddsValue": "79",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,12",
-          "oddsValue": "80",
+          "combString": "02,05",
+          "oddsValue": "31",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "07,11",
-          "oddsValue": "85",
+          "oddsValue": "32",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 5.88,
           "bankerOdds": []
         },
         {
-          "combString": "06,08",
-          "oddsValue": "86",
+          "combString": "03,06",
+          "oddsValue": "42",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 2.32,
           "bankerOdds": []
         },
         {
-          "combString": "04,05",
-          "oddsValue": "86",
+          "combString": "06,12",
+          "oddsValue": "46",
           "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,10",
-          "oddsValue": "91",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "10,12",
-          "oddsValue": "93",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 28.12,
           "bankerOdds": []
         },
         {
           "combString": "03,12",
-          "oddsValue": "94",
+          "oddsValue": "48",
+          "hotFavourite": false,
+          "oddsDropValue": 45.45,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,08",
+          "oddsValue": "50",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,05",
-          "oddsValue": "97",
+          "combString": "04,07",
+          "oddsValue": "61",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "02,09",
-          "oddsValue": "111",
+          "combString": "05,06",
+          "oddsValue": "63",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "07,09",
-          "oddsValue": "111",
+          "combString": "02,11",
+          "oddsValue": "63",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,05",
+          "oddsValue": "65",
+          "hotFavourite": false,
+          "oddsDropValue": 26.13,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,10",
+          "oddsValue": "66",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,12",
+          "oddsValue": "69",
+          "hotFavourite": false,
+          "oddsDropValue": 24.17,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,02",
+          "oddsValue": "73",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,10",
+          "oddsValue": "78",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,10",
+          "oddsValue": "80",
+          "hotFavourite": false,
+          "oddsDropValue": 3.61,
+          "bankerOdds": []
+        },
+        {
+          "combString": "10,12",
+          "oddsValue": "84",
+          "hotFavourite": false,
+          "oddsDropValue": 8.69,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,08",
+          "oddsValue": "88",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "02,04",
+          "oddsValue": "90",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "03,08",
-          "oddsValue": "111",
+          "oddsValue": "92",
           "hotFavourite": false,
-          "oddsDropValue": 0,
+          "oddsDropValue": 28.12,
           "bankerOdds": []
         },
         {
-          "combString": "06,12",
-          "oddsValue": "111",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,06",
-          "oddsValue": "113",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,08",
-          "oddsValue": "114",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,10",
-          "oddsValue": "124",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,04",
-          "oddsValue": "138",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "10,11",
-          "oddsValue": "138",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "04,10",
-          "oddsValue": "139",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "11,12",
-          "oddsValue": "141",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,03",
-          "oddsValue": "143",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,04",
-          "oddsValue": "148",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "08,09",
-          "oddsValue": "155",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "06,11",
-          "oddsValue": "156",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,06",
-          "oddsValue": "156",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "09,12",
-          "oddsValue": "188",
+          "combString": "01,07",
+          "oddsValue": "97",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "08,12",
-          "oddsValue": "194",
+          "oddsValue": "101",
+          "hotFavourite": false,
+          "oddsDropValue": 27.33,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,11",
+          "oddsValue": "120",
+          "hotFavourite": false,
+          "oddsDropValue": 18.91,
+          "bankerOdds": []
+        },
+        {
+          "combString": "11,12",
+          "oddsValue": "120",
+          "hotFavourite": false,
+          "oddsDropValue": 3.22,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,11",
+          "oddsValue": "124",
+          "hotFavourite": false,
+          "oddsDropValue": 8.82,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,08",
+          "oddsValue": "138",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "03,11",
-          "oddsValue": "195",
+          "combString": "08,10",
+          "oddsValue": "152",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,05",
+          "oddsValue": "172",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "05,11",
-          "oddsValue": "211",
+          "oddsValue": "173",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,08",
-          "oddsValue": "212",
+          "combString": "07,09",
+          "oddsValue": "178",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,08",
-          "oddsValue": "214",
+          "combString": "02,09",
+          "oddsValue": "202",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "04,11",
+          "combString": "10,11",
+          "oddsValue": "202",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,04",
+          "oddsValue": "216",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,06",
+          "oddsValue": "216",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,06",
+          "oddsValue": "223",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,05",
           "oddsValue": "225",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "06,09",
-          "oddsValue": "227",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "05,09",
-          "oddsValue": "230",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,12",
-          "oddsValue": "231",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "01,09",
-          "oddsValue": "243",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
-          "combString": "03,09",
-          "oddsValue": "251",
-          "hotFavourite": false,
-          "oddsDropValue": 0,
-          "bankerOdds": []
-        },
-        {
           "combString": "08,11",
-          "oddsValue": "254",
+          "oddsValue": "241",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "01,11",
-          "oddsValue": "254",
+          "combString": "01,03",
+          "oddsValue": "252",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
-          "combString": "09,10",
-          "oddsValue": "271",
+          "combString": "01,10",
+          "oddsValue": "269",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,10",
+          "oddsValue": "296",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,12",
-          "oddsValue": "272",
+          "oddsValue": "319",
+          "hotFavourite": false,
+          "oddsDropValue": 1.54,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,12",
+          "oddsValue": "345",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,04",
+          "oddsValue": "357",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,08",
+          "oddsValue": "385",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,11",
+          "oddsValue": "422",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,08",
+          "oddsValue": "465",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "06,09",
+          "oddsValue": "466",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "04,11",
+          "oddsValue": "485",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "03,09",
+          "oddsValue": "512",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "05,09",
+          "oddsValue": "515",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,12",
+          "oddsValue": "522",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "09,11",
-          "oddsValue": "289",
+          "oddsValue": "600",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "09,10",
+          "oddsValue": "609",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "08,09",
+          "oddsValue": "642",
+          "hotFavourite": false,
+          "oddsDropValue": 0,
+          "bankerOdds": []
+        },
+        {
+          "combString": "01,09",
+          "oddsValue": "753",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
         },
         {
           "combString": "04,09",
-          "oddsValue": "330",
+          "oddsValue": "882",
           "hotFavourite": false,
           "oddsDropValue": 0,
           "bankerOdds": []
